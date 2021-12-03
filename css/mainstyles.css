@@ -17,9 +17,14 @@ body
   {
     background-color:#215B73;
     font-family: Helvetica, sans-serif;
-    text-align: center
   }
 p
   {
     font-size: 25px;
+  }
+ul
+  {
+    text-align: left;
+    line-height: 40px;
+    font-size: 30px;
   }
